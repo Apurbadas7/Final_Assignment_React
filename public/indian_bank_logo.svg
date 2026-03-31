@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60">
+    <!-- Indian Bank Logo Icon -->
+    <g transform="translate(10, 10)">
+        <!-- Blue elements -->
+        <path d="M 0 10 L 20 10 L 10 0 Z" fill="#0152a1" />
+        <path d="M 0 30 L 20 30 L 10 20 Z" fill="#0152a1" />
+        <path d="M 20 20 L 40 20 L 30 10 Z" fill="#0152a1" />
+        
+        <!-- Yellow elements -->
+        <path d="M 10 20 L 30 20 L 20 10 Z" fill="#fdb813" />
+        <path d="M 10 40 L 30 40 L 20 30 Z" fill="#fdb813" />
+        <path d="M 30 30 L 50 30 L 40 20 Z" fill="#fdb813" />
+    </g>
+    
+    <!-- Text INDIAN BANK -->
+    <text x="75" y="42" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="26" fill="#0152a1" letter-spacing="0.5">INDIAN BANK</text>
+</svg>

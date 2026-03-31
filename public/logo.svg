@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 60">
+    <!-- Green Background -->
+    <rect width="240" height="60" fill="#00836e" />
+    
+    <!-- Orange Circle -->
+    <circle cx="34" cy="30" r="18" fill="#e9761a" />
+    
+    <!-- Left semi-circle -->
+    <path d="M 32 18 C 24 18 20 25 20 30 C 20 35 24 42 32 42 L 32 38 C 27 38 24 33 24 30 C 24 27 27 22 32 22 Z" fill="#ffffff" />
+    
+    <!-- Right semi-circle -->
+    <path d="M 36 18 C 44 18 48 25 48 30 C 48 35 44 42 36 42 L 36 38 C 41 38 44 33 44 30 C 44 27 41 22 36 22 Z" fill="#ffffff" />
+    
+    <!-- Inner figure (i) -->
+    <circle cx="34" cy="21" r="2.5" fill="#ffffff" />
+    <rect x="32" y="25" width="4" height="14" fill="#ffffff" />
+    
+    <!-- Text IDBI BANK -->
+    <text x="65" y="40" font-family="Arial, Helvetica, sans-serif" font-weight="900" font-size="28" fill="#ffffff" letter-spacing="1">IDBI BANK</text>
+</svg>
