@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
 import { Loader2 } from 'lucide-react';
-import { login } from '../../../components/common/GenerateRandomString';
+import { login } from '../../../ui/common/GenerateRandomString';
 import '../../../styles/Login.css';
 
 const Login = () => {

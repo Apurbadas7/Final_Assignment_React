@@ -2,8 +2,8 @@ import { createAsyncThunk } from '@reduxjs/toolkit';
 import { UserManager, WebStorageStateStore } from 'oidc-client-ts';
 import { jwtDecode } from 'jwt-decode';
 import { authConfig } from '../../config/authConfig';
-import { log } from '../../utils/logger';
-import { restartSession } from '../../utils/sessionManager';
+import { log } from '../../shared/logger';
+import { restartSession } from '../../shared/sessionManager';
 import { logout as logoutAction, setError, setTokens, setUser } from '../slices/authSlice';
 
 // Adapter to use oidc-client-ts like react-native-app-auth

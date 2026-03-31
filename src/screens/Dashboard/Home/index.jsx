@@ -1,9 +1,9 @@
 import React, { useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { ArrowLeftRight, Wallet } from 'lucide-react';
-import { setSelectedVpa } from '../../../store/slices/authSlice';
-import { storage } from '../../../utils/storage';
-import KPICard from '../../../components/Dashboard/KPICard';
+import { setSelectedVpa } from '../../../store_js/slices/authSlice';
+import { storage } from '../../../shared/storage';
+import KPICard from '../../../ui/Dashboard/KPICard';
 
 const DashboardHome = () => {
     const dispatch = useDispatch();
